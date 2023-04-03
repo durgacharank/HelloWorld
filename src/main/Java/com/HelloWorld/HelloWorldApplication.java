@@ -5,9 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 import org.springframework.web.WebApplicationInitializer;
 
-@SpringBootApplication(scanBasePackages = {"com.HelloWorld"})
-public class HelloWorldApplication extends SpringBootServletInitializer implements WebApplicationInitializer
+@SpringBootApplication
+public class HelloWorldApplication
 {
+    //(scanBasePackages = {"com.HelloWorld"})
     // extends SpringBootServletInitializer implements WebApplicationInitializer
 //    @Override
 //    protected SpringApplicationBuilder configure(SpringApplicationBuilder application)
