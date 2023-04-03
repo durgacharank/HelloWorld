@@ -1,4 +1,4 @@
-package com.HelloWorld.Controllers;
+package com.HelloWorld.Controller;
 
 import org.springframework.web.bind.annotation.*;
 
