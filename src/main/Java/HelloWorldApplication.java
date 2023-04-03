@@ -4,8 +4,9 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 import org.springframework.web.WebApplicationInitializer;
 
 @SpringBootApplication(scanBasePackages = {"com.HelloWorld"})
-public class HelloWorldApplication extends SpringBootServletInitializer implements WebApplicationInitializer
+public class HelloWorldApplication
 {
+    // extends SpringBootServletInitializer implements WebApplicationInitializer
 //    @Override
 //    protected SpringApplicationBuilder configure(SpringApplicationBuilder application)
 //    {
