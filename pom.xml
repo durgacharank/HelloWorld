@@ -13,7 +13,7 @@
   <version>1.0-SNAPSHOT</version>
   <name>HelloWorld</name>
   <description>Project for Logging RPA tasks</description>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   <properties>
     <java.version>17</java.version>
   </properties>
