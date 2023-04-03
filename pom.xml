@@ -28,7 +28,7 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-maven-plugin</artifactId>
         <configuration>
-          <mainClass>com.HelloWorld.HelloWorldApplication</mainClass>
+          <mainClass>HelloWorldApplication</mainClass>
         </configuration>
       </plugin>
     </plugins>
